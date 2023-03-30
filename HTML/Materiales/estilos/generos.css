@@ -1,0 +1,79 @@
+
+.imagen_music{
+    height: 330px;
+    width: 320px;
+}
+
+
+/* Botton */
+button{
+
+    background-color: grey;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+  
+}
+button a:hover {
+    color: white;
+    background-color: black;
+    
+
+}
+img{
+    height: 420px;
+    width: 420px;
+    
+}
+
+a{
+    display: block;
+    padding: 8px;
+    background-color: grey;
+  }
+
+.generos{
+    text-align: center;
+}
+.Carta{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:420px;
+    margin: 15px;
+    box-shadow: 2px 2px 8px 4px grey;
+    border-radius:15px;
+    font-family: sans-serif;
+    font-size: 15px
+  }
+  .titulo{
+    font-size: 24px;
+    padding: 10px 10px 0 10px;
+    text-align: center;
+  }
+
+
+  .contenedor{
+    display: flex;
+    margin-left: 50px;
+  }
+  .contenedor2{
+    display: flex;
+    margin-left: 50px;
+  }
+p{
+  text-align: center;
+  padding: 15px;
+  font-size: 18px;
+}
+.blockquote-footer{
+  text-align: center;
+}
+.blockquote{
+  background-color: gray;
+}
+.body{
+  background-color: #e0e0e0;
+}

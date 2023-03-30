@@ -1,0 +1,52 @@
+.card-group{
+    padding-top: 40px;
+}
+.container{
+    padding-top: 40px;
+}
+.navbar-brand{
+    padding-left: 50px;
+}
+.CONTENEDOR{
+    padding-bottom: 30px;
+}
+.blockquote-footer{
+    text-align: center;
+  }
+  .blockquote{
+    background-color: #e0e0e0;
+    padding-bottom: 0px;
+  }
+.imagen{
+    padding-left: 66px;
+    width: 930px;
+    height: 420px;
+    display: inline-block;
+    justify-content: center;
+    border-radius: 140px;
+
+}
+.c{
+    color: white;
+}
+.contI{
+    justify-content: center;
+}
+.logo{
+    padding-left: 40px;
+    width: 195px;
+}
+.nav-link{
+    font-size: 25px;
+
+}
+.navbar-brand{
+    font-size: 30px;
+
+}
+.navbar {
+    background-color: #e0e0e0;
+}
+body{
+    background-color: #eceff1 ;
+}
